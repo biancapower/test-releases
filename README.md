@@ -1,3 +1,3 @@
 # test-releases
 
-Release 1
+Release 2
